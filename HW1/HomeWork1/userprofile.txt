@@ -1,0 +1,3 @@
+20 Student male
+picturetype1 picturetype2
+Name1

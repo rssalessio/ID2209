@@ -1,0 +1,5 @@
+PicturesMuseum
+0 Name1 Creator1 10/10/2010 Sweden Picture PictureType1 Description1
+1 Name2 Creator1 10/11/2009 Sweden Picture PictureType1 Description2
+2 Name3 Creator2 10/11/2000 Sweden Picture PictureType2 Description3
+3 Name4 Creator3 10/12/2000 Sweden Picture PictureType3 Description4
